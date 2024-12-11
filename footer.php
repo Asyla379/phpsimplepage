@@ -1,3 +1,4 @@
-<footer>
-    copyright <?php echo date("Y")?>
-</footer>
+
+	<footer>
+		copyright <?php echo date("Y")?>
+	</footer>
